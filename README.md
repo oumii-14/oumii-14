@@ -16,6 +16,8 @@ I'm a beginner programmer who's passionate about learning new technologies and b
 - Beginner-level projects using VB, SQL, or C
 - Learning communities or tutorials for students
 - Fun coding exercises and challenges
+
+
 ⚡ Fun fact:
 I once spent 2 hours fixing a bug... and it was a missing semicolon 😭
 
