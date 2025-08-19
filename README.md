@@ -2,18 +2,18 @@
 
 I'm a beginner programmer who's passionate about learning new technologies and building cool, useful things with code! 🚀
  👀 I’m interested in:
-- Programming with **Visual Basic**, **C**, and **SQL**
+- Programming with **Visual Basic**, **C**,**SQL** and FrontEnd (HTML,CSS,JS)
 - Building small apps, automation tools, and working with databases
 - Learning how software works from the inside out
 
 🌱 I’m currently learning:
-- Visual Basic (VB) for desktop applications
+- **FrontEnd** to create creative and interactive websites.
 - SQL for managing and querying databases
-- C language** for low-level programming and embedded systems
+- C language for low-level programming and embedded systems
 - How to use **GitHub** to share and organize my work
 
 💞️ I’m looking to collaborate on:
-- Beginner-level projects using VB, SQL, or C
+- Beginner-level projects using html,css,js, SQL, or C
 - Learning communities or tutorials for students
 - Fun coding exercises and challenges
 
